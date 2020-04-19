@@ -1,1 +1,0 @@
-# Edyoda-Python-Django-Course
